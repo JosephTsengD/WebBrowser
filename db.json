@@ -9,6 +9,20 @@
       {
         "type": 1,
         "img-url": "https://www.japan-guide.com/g18/740/5300_02.jpg"
+      },
+      {
+        "type": 0,
+        "img-url": "https://www.japan-guide.com/g18/740/5309_01.jpg",
+        "title": "Mount Moiwa",
+        "description": "Mount Moiwa is one of several small, forested mountains southwest of central Sapporo. "
+      },
+      {
+        "img-url": "https://www.japan-guide.com/g18/740/5309_02.jpg"
+      },
+      {
+      "img-url": "https://www.japan-guide.com/g18/740/5318_01.jpg",
+      "title": "Sapporo Teine Ski Resort",
+      "description": "is the largest of several medium sized ski resorts on the outskirts of Sapporo. "
       }
    ]
 }
